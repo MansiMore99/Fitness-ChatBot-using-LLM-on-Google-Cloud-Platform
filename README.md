@@ -30,9 +30,9 @@ fitnessGroot is an AI-powered chatbot developed using Vertex AI on Google Cloud 
 
 ## References:
 
-1. [Vertex AI Agent Builder] (https://cloud.google.com/products/agent-builder?hl=en)
-2. https://youtu.be/HSJIrCiAmOc?si=qz2D-k1iSii9xK_A
-3. https://youtu.be/QcXOrBDwCL8?si=BperMyuwW4hvsGVu
+1. [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder?hl=en)
+2. [Link](https://youtu.be/HSJIrCiAmOc?si=qz2D-k1iSii9xK_A)
+3. [Link](https://youtu.be/QcXOrBDwCL8?si=BperMyuwW4hvsGVu)
 
 
 
