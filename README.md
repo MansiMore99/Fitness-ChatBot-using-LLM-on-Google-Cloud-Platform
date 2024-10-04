@@ -1,8 +1,7 @@
 # fitnessGroot - Personalized Fitness Chatbot
 
-Are you guys are Frustrated with generic chatbots?  This project will show how to build your own custom chatbot using Vertex AI Agent Builder and Dialogflow on GCP! Train it on your data for a more informative and user-friendly experience. 
-fitnessGroot is an AI-powered chatbot developed using Vertex AI on Google Cloud 🌐. It provides personalized fitness information, including workout recommendations 🏋️‍♂️, meal plans 🍽️, and progress tracking 📊. 
-
+Want to build a Personalized ChatBot? This project will show how to make your own custom chatbot using Vertex AI Agent Builder and Dialogflow on GCP! Train it on your data for a more informative and user-friendly experience. 
+My **fitnessGroot**, it is an AI-powered chatbot developed using Vertex AI on Google Cloud 🌐. It provides personalized fitness information, including workout recommendations 🏋️‍♂️, meal plans 🍽️, and progress tracking 📊. 
 
 
 <img width="1375" alt="Screenshot 2024-10-04 at 2 24 06 PM" src="https://github.com/user-attachments/assets/39043473-22b3-426f-9531-c1df5b141ed8">
@@ -25,6 +24,8 @@ fitnessGroot is an AI-powered chatbot developed using Vertex AI on Google Cloud 
 
 
 ## Documents:
+
+
 
 
 
