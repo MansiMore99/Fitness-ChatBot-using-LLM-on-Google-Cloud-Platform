@@ -6,12 +6,16 @@ My **fitnessGroot**, it is an AI-powered chatbot developed using Vertex AI on Go
 
 <img width="1375" alt="Screenshot 2024-10-04 at 2 24 06 PM" src="https://github.com/user-attachments/assets/39043473-22b3-426f-9531-c1df5b141ed8">
 
+## 🤖 ChatBot which: 
+
+* Answer all your general queries just like Gemini/ChatGpt
+* Additionally answer the queries related to your data.
 
 ## ✨ Features:
 
-* Workout Recommendations: Custom exercises based on your goals and fitness level 🏋️‍♂️ 
-* Nutrition Advice: Personalized meal plans and healthy eating tips 🍽️
-* Progress Tracking: Keep track of your fitness milestones and achievements 📊
+* **Workout Recommendations:** Custom exercises based on your goals and fitness level 🏋️‍♂️ 
+* **Nutrition Advice: **Personalized meal plans and healthy eating tips 🍽️
+* **Progress Tracking:** Keep track of your fitness milestones and achievements 📊
 
 
 ## 🚀 How It Works:
