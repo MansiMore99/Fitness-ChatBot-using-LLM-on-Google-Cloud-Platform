@@ -14,7 +14,7 @@ My **fitnessGroot**, it is an AI-powered chatbot developed using Vertex AI on Go
 ## ✨ Features:
 
 * **Workout Recommendations:** Custom exercises based on your goals and fitness level 🏋️‍♂️ 
-* **Nutrition Advice:**Personalized meal plans and healthy eating tips 🍽️
+* **Nutrition Advice:** Personalized meal plans and healthy eating tips 🍽️
 * **Progress Tracking:** Keep track of your fitness milestones and achievements 📊
 
 
