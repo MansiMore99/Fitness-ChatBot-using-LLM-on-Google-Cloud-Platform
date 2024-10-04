@@ -43,6 +43,7 @@ I'm always looking to improve! Share your thoughts and suggestions:
 
 - **Email:** mansi.more943@gmail.com
 - **GitHub:** [MansiMore99](https://github.com/MansiMore99)
+- **Linkedin:** [MansiMore](https://linkedin.com/in/mansi-more-0943)
 
 ## 📢 Contributing
 
