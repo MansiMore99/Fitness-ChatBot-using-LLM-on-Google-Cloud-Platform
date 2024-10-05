@@ -17,7 +17,7 @@ My **fitnessGroot**, is an AI-powered chatbot developed using a Google AI agent 
 * Built using Vertex AI Agent Builder and Dialogflow on Google Cloud, fitnessGroot provides intelligent, scalable conversations.
 * You can train it on your own data 📁 for a more personalized and informative experience.
 
-<img width="762" alt="Screenshot 2024-10-04 at 10 44 21 PM" src="https://github.com/user-attachments/assets/0e900736-cbc4-4dc6-bb90-ca46c74b74de">
+<img width="764" alt="ChatBot" src="https://github.com/user-attachments/assets/14ce71ca-fb15-42a8-9053-7ffa7ee89f4b">
 
 ## ✨ Features:
 
