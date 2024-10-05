@@ -1,4 +1,4 @@
-* I fed Google AI agent with all the requisite training information to be trained on and included all fitness-related data sets ranging from workout routines, and dietary raw information or customized fitness data. The AI agent also used this data to refine the AI model and make better recommendations that may suit the user profiles within the platform.
+* I fed Google AI agent with all the training information to be trained on and included all fitness-related data sets ranging from workout routines, and dietary raw information or customized fitness data. The AI agent also used this data to refine the AI model and make better recommendations that may suit the user profiles within the platform.
 
 
 
