@@ -17,6 +17,5 @@
 * I further integrated the respective code in the Flask and I made a demo chatbot for my startup website named 'fitnessGroot' which is nothing but personalized fitness information, including workout recommendations 🏋️‍♂️, meal plans 🍽️ as per age, sex, and weight category tp both beginners and experts.
 
 
+<img width="764" alt="ChatBot" src="https://github.com/user-attachments/assets/ed85e3f9-fc52-4910-a215-8bf9e26c023b">
 
-
-<img width="762" alt="Screenshot 2024-10-04 at 10 44 21 PM" src="https://github.com/user-attachments/assets/e554f0d9-799e-4eb6-956a-1b133c769bc2">
