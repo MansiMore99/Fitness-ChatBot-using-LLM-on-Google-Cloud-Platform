@@ -1,6 +1,6 @@
 
 
-Want to build a Personalized ChatBot? On your own data? 
+Want to build a Personalized ChatBot? On your own data? 🤖📚
 
 
 It is possible with a few steps using a few tools. This project shows how to make your own custom chatbot using Vertex AI Agent Builder and Dialogflow on Google Cloud Platform! Train it on your data for a more informative and user-friendly experience. 
@@ -10,7 +10,7 @@ It is possible with a few steps using a few tools. This project shows how to mak
 
 Agent Builder is a tool on the Google Cloud platform that helps us to build an application with the coding stuff and a pinch of LLMs and on the other hand, Dialogflow is a a platform where we can design our application. Yes, even implementation is as simple as that.
 
-I built **fitnessGroot**, it is an AI-powered chatbot developed using a Google AI agent with a large language model such as Gemini 1.0 pro on the Google Cloud Platform 🌐. It provides personalized fitness information, including workout recommendations 🏋️‍♂️, meal plans 🍽️ as per the prompt.
+📍 I built **fitnessGroot**, it is an AI-powered chatbot developed using a Google AI agent with a large language model such as Gemini 1.0 pro on the Google Cloud Platform 🌐. It provides personalized fitness information, including workout recommendations 🏋️‍♂️, meal plans 🍽️ as per the prompt.
 
 <img width="1375" alt="Screenshot 2024-10-04 at 2 24 06 PM" src="https://github.com/user-attachments/assets/39043473-22b3-426f-9531-c1df5b141ed8">
 
