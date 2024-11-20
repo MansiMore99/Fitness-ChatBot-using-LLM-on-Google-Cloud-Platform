@@ -1,8 +1,12 @@
 # fitnessGroot - Personalized Fitness Chatbot
 
 Want to build a Personalized ChatBot? On your own data? 
-This project shows how to make your own custom chatbot using Vertex AI Agent Builder and Dialogflow on GCP! Train it on your data for a more informative and user-friendly experience.  
+It is possible with the few steps using few tools. This project shows how to make your own custom chatbot using Vertex AI Agent Builder and Dialogflow on GCP! Train it on your data for a more informative and user-friendly experience. 
 
+
+## What is AgentBuilder and Dialogflow?
+
+Agent Builder is a tool on the Google Cloud platform that helps us to build an application with the coding stuff and a pinch of LLMs and on the other hand, Dialogflow is a a platform where we can design our application. Yes, even implementation is as simple as that.
 
 I built **fitnessGroot**, it is an AI-powered chatbot developed using a Google AI agent with a large language model such as Gemini 1.0 pro on the Google Cloud Platform 🌐. It provides personalized fitness information, including workout recommendations 🏋️‍♂️, meal plans 🍽️ as per the prompt.
 
