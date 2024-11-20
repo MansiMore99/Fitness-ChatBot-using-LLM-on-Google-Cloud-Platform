@@ -28,6 +28,9 @@ I built **fitnessGroot**, it is an AI-powered chatbot developed using a Google A
 
 <img width="764" alt="ChatBot" src="https://github.com/user-attachments/assets/14ce71ca-fb15-42a8-9053-7ffa7ee89f4b">
 
+The difference between Google or ChatGPT search and this application is that it will provide a piece of exact information instead of lots of unnecessary links, with a proper PDF or document format.
+
+
 ## ✨ Features:
 
 * **Workout Recommendations:** Custom exercises based on your goals and fitness level 🏋️‍♂️ 
