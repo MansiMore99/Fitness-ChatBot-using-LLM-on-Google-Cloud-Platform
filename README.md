@@ -1,4 +1,5 @@
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Vertex AI](https://img.shields.io/badge/Powered%20by-Vertex%20AI-FF6F00.svg)
 
 Want to build a Personalized ChatBot? On your own data? 🤖📚
 
